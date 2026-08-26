@@ -2,7 +2,7 @@
 --   GREED HUB | Blox Fruits Script Hub
 --   Features: Auto Farm, Sea Events, PVP, Player Kill & More
 --   Author: GREED_X
---   Load: loadstring(game:HttpGet("YOUR_RAW_URL"))()
+--   Load: loadstring(game:HttpGet("https://raw.githubusercontent.com/GREED-X486/GREEDHUB/refs/heads/main/GREEDHUB.lua"))()
 -- ============================================================
 
 local Players = game:GetService("Players")
